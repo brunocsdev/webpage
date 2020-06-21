@@ -178,6 +178,7 @@
 .main_optin_content form {
     display: flex;
     justify-content: space-between;
+    margin: 0 auto;
 }
 
 .main_optin_content form input[type=text], .main_optin_content form input[type=email]{
@@ -505,14 +506,14 @@
 
 .optin_footer {
     width: 100%;
-    background-color: #EBEBEB;
+    background-color: #F7F7F7;
 }
 
 .optin_footer_content {
     max-width: calc(1300px - 80px);
     padding: 40px 0;
     text-align: center;
-    margin: auto;
+    margin: 0 auto;
     color: #333;
 }
 
